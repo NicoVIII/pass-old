@@ -5,7 +5,7 @@ shopt -s globstar
 
 # Required age
 OLD=$((60 * 60 * 24 * 365))
-NEARLY_OLD=$((60 * 60 * 24 * 330))
+NEARLY_OLD=$((60 * 60 * 24 * 300))
 
 # Get current timestamp
 CURR=$(date +"%s")

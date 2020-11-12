@@ -1,5 +1,5 @@
-# pass-old
+# pass-outdated
 
 ## Installation
 
-Place `old.bash` in `/usr/lib/password-store/extensions` and run `pass old` to see old passwords.
+Place `outdated.bash` in `/usr/lib/password-store/extensions` and run `pass outdated` to see old passwords.
